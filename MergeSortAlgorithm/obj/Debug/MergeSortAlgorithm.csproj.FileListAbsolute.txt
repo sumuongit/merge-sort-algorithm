@@ -1,6 +1,0 @@
-c:\users\sumon\documents\visual studio 2013\Projects\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\MergeSortAlgorithm.exe.config
-c:\users\sumon\documents\visual studio 2013\Projects\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\MergeSortAlgorithm.exe
-c:\users\sumon\documents\visual studio 2013\Projects\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\MergeSortAlgorithm.pdb
-c:\users\sumon\documents\visual studio 2013\Projects\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\MergeSortAlgorithm.csprojResolveAssemblyReference.cache
-c:\users\sumon\documents\visual studio 2013\Projects\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\MergeSortAlgorithm.exe
-c:\users\sumon\documents\visual studio 2013\Projects\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\MergeSortAlgorithm.pdb

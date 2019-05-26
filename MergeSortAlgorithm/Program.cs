@@ -37,13 +37,16 @@ namespace MergeSortAlgorithm
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Repeatedly divide the unsorted list until it is divided into 10 sublists, each containing 1 element.
+        /// </summary>        
         public static List<int> DivideTheUnsortedList(List<int> unsortedList)
         {
             if(unsortedList.Count <= 1)
             {
                 return unsortedList;
             }
-
+            
             int middle = unsortedList.Count / 2;
 
             List<int> leftList = new List<int>();
@@ -65,6 +68,9 @@ namespace MergeSortAlgorithm
             return MergeTheSortedList(leftList, rightList);
         }
 
+        /// <summary>
+        /// Repeatedly merge the sorted sublists until we get a final sorted list. 
+        /// </summary>        
         public static List<int> MergeTheSortedList(List<int> leftList, List<int> rightList)
         {
             List<int> sortedList = new List<int>();
