@@ -8,7 +8,7 @@
 ## General Info
 This application sorts a given set of numbers following the merge sort algorithm
 
->**Merge sort algorithm** based on the following two strategies: at first, repeatedly divide the unsorted list until it is divided into 
+>**Merge sort algorithm** is based on the following two strategies: at first, repeatedly divide the unsorted list until it is divided into 
 N (total given numbers) sublists, each containing 1 element. Then, repeatedly merge the sorted sublists until we get a final sorted list. 
   	
 ## Technologies
